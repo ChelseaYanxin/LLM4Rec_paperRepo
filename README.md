@@ -129,8 +129,21 @@
     4. 滑动窗口特征显著  
   - [Paper](https://arxiv.org/pdf/2505.04180)
 - **GR-LLMs (Alibaba)**
-  - 生成式推荐最新综述  
+  - 生成式推荐最新综述
+  - 世界知识对冷启动问题的解决方案
+  - 多模态学习在推荐系统中的实践
   - [Paper](https://arxiv.org/pdf/2507.06507)
+- **Tri-Decoupled Perspective Survey (CityU x kuaishou)**
+  - 三维度分析：tokenization-architecture-optimization
+  - sparse ID/ Text/ Semantic ID 三种方案
+  - Encoder-Decoder/ Decoder-only/ Diffusion 三种架构
+  - 监督学习到强化学习
+  - [Paper](https://www.preprints.org/manuscript/202512.0203)
+- **Survey on GR (合工大 x 新国立)**
+  - 三维度分析：数据-模型-任务
+  - 总结并梳理了大量GR论文，**可以在详细阅读这些论文之前先阅读这篇survey**
+  - 对话式推荐
+  - [Paper](https://arxiv.org/pdf/2510.27157)
 
 ---
 
